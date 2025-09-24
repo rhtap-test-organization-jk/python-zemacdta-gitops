@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap-test-organization-jk/python-zemacdta:4d892417c4329d84f8d55ea5c653ba512e09dabb@sha256:2e2f7a5f3a1ba75e4275b494eed82700b61a6d94b2069369c56e51a7a9f03014
+        - image: quay.io/rhtap-test-organization-jk/python-zemacdta:bece2d8661ad8b67128a4784a542278082734dca@sha256:f805cec46bba0f9cc49aa36fd508598dfc2d29b1ba82b78df7bdd931693e4b85
           name: container-image
